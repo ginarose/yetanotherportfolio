@@ -1,0 +1,97 @@
+/*default tag changes*/
+p{
+  font-family: 'Open Sans';
+  line-height: 1.785em;
+}
+
+h1{
+  font-size: 3em;
+    letter-spacing: -.05em;
+  font-family: 'Open Sans';
+  color: #D3643B;
+  text-align: center;
+  background-color: rgba(255,255,255,.6);
+  padding: 25px;
+  font-weight: 800;
+}
+
+h2{
+  font-size: 1.5em;
+  letter-spacing: .02em;
+  font-family: 'Open Sans';
+  margin: 0px;
+  color: #D3643B;
+  text-align: center;
+  background-color: rgba(255,255,255,.6);
+  padding: 10px;
+  margin: 25px 0px;
+  font-weight: 700;
+}
+
+body{
+	background-color: #EDEBE6; 
+	font-family: 'Open Sans';
+	font-weight: 600;
+}
+
+/*nav*/
+.pure-menu-horizontal{
+  text-align: center;
+  background-color: #94C7B6;
+  border-bottom: 10px solid #D6E1C7;
+}
+
+.pure-menu-heading{
+  padding: 10px 10px;
+   color: #EDEBE6;
+}
+
+.pure-menu-heading:hover{
+  background-color: #D3643B;
+}
+
+/*about*/
+
+.about-picture{
+  width: 100%;
+  max-width: 230px;
+  margin: auto;
+  display: block;
+  padding: 10px;
+  border-radius: 1000px;
+}
+
+.about-text{
+  padding: 50px;
+}
+
+/*gallery*/
+.interest-display{
+ background-color: #94C7B6; 
+ height: 100%;
+ min-height: 500px;
+}
+
+.interest-selection{
+  display: block;
+  margin: auto;
+}
+
+.gallery-thumbnail{
+  width: 100px;
+  padding: 10px
+}
+
+
+/*block background stuff*/
+.about-block{
+  background-color: #EDEBE6;
+}
+
+
+
+/*random fix because it breaks at small res?*/
+.pure-g{
+  letter-spacing: 0px;
+}
+
