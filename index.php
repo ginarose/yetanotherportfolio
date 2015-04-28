@@ -39,20 +39,13 @@
 <div class="pure-g">
   <div class="pure-u-1"><h2>Things I've Made</h2></div>
   
-  <div class="interest-selection form-control select select-primary select-block mbl pure-u-sm-1 pure-u-md-1-7 pure-u-lg-1-4">
-    <form class="pure-form"><select id="mywork" class="pure-input-1">
-    <option value="default">(Choose from me!)</option>
-    <option value="motion">Motion Graphics</option>
-    <option value="video">Videography</option>
-    <option value="design">Design/graphics</option>
-    <option value="web">Web Development</option>
-    <option value="all">ALL</option>
-    </select>
-    </form>
+    <div id="videography" class="interest-selection pure-u-sm-1 pure-u-md-1-2 pure-u-lg-1-5"><a href="#">Videography</a></div>
+    <div id="web" class="interest-selection pure-u-sm-1 pure-u-md-1-2 pure-u-lg-1-5"><a href="#">Web Development</a></div>
+    <div id="print" class="interest-selection pure-u-sm-1 pure-u-md-1-2 pure-u-lg-1-5"><a href="#">Print graphics</a></div>
+    <div id="other" class="interest-selection pure-u-sm-1 pure-u-md-1-2 pure-u-lg-1-5"><a href="#">Other</a></div>
+    <div id="" class="interest-selection pure-u-sm-1 pure-u-md-2-2 pure-u-lg-1-5"><a href="#">All</a></div>
 
-  </div>
-
-  <div class="interest-display pure-u-sm-1 pure-u-md-6-7 pure-u-lg-3-4" id="gallery">
+  <div class="interest-display pure-u-1" id="gallery">
     <a class="fancybox" data-caption="This is the caption" title="Captionnn" rel="lightbox" href="imgs/gallery/fullsize1.jpg"><img class="gallery-thumbnail all web" src="imgs/gallery/thumb1.jpg" alt="Kittens are cute" /></a>
     <a class="fancybox" data-caption="This is the caption" title="Captionnn" rel="lightbox" href="imgs/gallery/fullsize1.jpg"><img class="gallery-thumbnail all video" src="imgs/gallery/thumb1.jpg" alt="Kittens are cute" /></a>
     <a class="fancybox" data-caption="This is the caption" title="Captionnn" rel="lightbox" href="imgs/gallery/fullsize1.jpg"><img class="gallery-thumbnail all web" src="imgs/gallery/thumb1.jpg" alt="Kittens are cute" /></a>
@@ -63,6 +56,7 @@
   </div>
 </div>
 
+<div class="resume-link"></div>
 </body>
 </html>
 

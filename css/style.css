@@ -75,6 +75,32 @@ body{
 .interest-selection{
   display: block;
   margin: auto;
+  background-color: #94C7B6;
+  text-align: center;
+}
+
+.interest-selection a{ 
+  font-family: 'Open Sans';
+  line-height: 1.785em;
+  color: #fff;
+  text-decoration: none;
+}
+
+/*gallery block hovers */
+#videography:hover{
+  background-color: #D3643B;
+}
+
+#web:hover{
+  background-color: #D3643B;
+}
+
+#print:hover{
+  background-color: #D3643B;
+}
+
+#other:hover{
+  background-color: #D3643B;
 }
 
 .gallery-thumbnail{
