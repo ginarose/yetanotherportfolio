@@ -1,4 +1,5 @@
-$('#mywork').on('change', function(){
+$('a').click(function(){
+	console.log(this.class);
 	// this can probably be a switch case but for now i'm lazy and it works
 	if (this.value == "motion"){
 		$( ".all" ).fadeOut(100)
