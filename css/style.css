@@ -2,11 +2,12 @@
 p{
   font-family: 'Open Sans';
   line-height: 1.785em;
+  margin: 20px;
 }
 
 h1{
   font-size: 3em;
-    letter-spacing: -.05em;
+  letter-spacing: -.05em;
   font-family: 'Open Sans';
   color: #D3643B;
   text-align: center;
@@ -23,8 +24,7 @@ h2{
   color: #D3643B;
   text-align: center;
   background-color: rgba(255,255,255,.6);
-  padding: 10px;
-  margin: 25px 0px;
+  padding: 20px;
   font-weight: 700;
 }
 
@@ -33,10 +33,10 @@ h3{
   font-family: 'Open Sans';
   color: #D3643B;
   text-align: center;
-  background-color: rgba(255,255,255,.6);
-  padding: 10px;
-  margin: 25px 0px;
+  background-color: rgba(255,255,255,.25);
+  padding: 20px;
   font-weight: 700;
+  margin-bottom: 10px;
 }
 
 body{
@@ -45,7 +45,6 @@ body{
 	font-weight: 600;
 }
 
-.footer{text-align: center;}
 
 /*nav*/
 .pure-menu-horizontal{
@@ -84,9 +83,17 @@ body{
 
 /*gallery*/
 .interest-display{
- background-color: #94C7B6; 
+ background-color: #EDEBE5; 
  height: 100%;
  min-height: 500px;
+}
+
+.interest-icon{
+  color:  #D3643B;
+}
+
+.block-link{
+  display: block;
 }
 
 .interest-selection{
@@ -146,3 +153,11 @@ body{
   letter-spacing: 0px;
 }
 
+
+
+.footer
+{
+  text-align: center;
+  background-color: #94C7B6;
+  padding: 0px 0px 50px 0px;
+}
