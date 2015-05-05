@@ -6,7 +6,7 @@ p{
 }
 
 h1{
-  font-size: 3em;
+  font-size: 3.5em;
   letter-spacing: -.05em;
   font-family: 'Open Sans';
   color: #D3643B;
@@ -56,6 +56,7 @@ body{
 .pure-menu-heading{
   padding: 10px 10px;
    color: #EDEBE6;
+   font-size: 1.2em;
 }
 
 .pure-menu-heading:hover{
@@ -89,7 +90,7 @@ body{
 }
 
 .interest-icon{
-  color:  #D3643B;
+  color:  #5c7d72;
 }
 
 .block-link{
@@ -122,7 +123,7 @@ body{
   background-color: #D3643B;
 }
 
-#print:hover{
+#graphic:hover{
   background-color: #D3643B;
 }
 
@@ -159,5 +160,9 @@ body{
 {
   text-align: center;
   background-color: #94C7B6;
-  padding: 0px 0px 50px 0px;
+  padding: 50px 0px;
+}
+
+.fa-3x{
+  color: #EDEBE6;
 }
