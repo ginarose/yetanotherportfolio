@@ -18,14 +18,21 @@ h2{
 
 p {
 	font-family: 'Open Sans';
+	font-weight: 600;
 }
 
 img{
 	margin: 0 auto;
 	display: block;
+	max-width: 600px;
 }
 
 .fa{
 	font-size: .7em;
 	color: #94C7B6;
+}
+
+.youtube-embed{
+	display: block;
+	margin: 0 auto;
 }

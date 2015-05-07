@@ -18,6 +18,9 @@
   <div class="interest-display pure-u-1" id="gallery">
     <a class="gallery-iframe" data-fancybox-type="iframe" href="gallery/unblock.html"><img class="gallery-thumbnail all web" src="imgs/gallery/unblock.jpg" alt="Unblock - a inspiration tool for artists" /></a>
     <a class="gallery-iframe" data-fancybox-type="iframe" href="gallery/resolution.html"><img class="gallery-thumbnail all web" src="imgs/gallery/resolution.jpg" alt="Resolution - a movie picker web app" /></a>
+    <a class="gallery-iframe" data-fancybox-type="iframe" href="gallery/credhub.html"><img class="gallery-thumbnail all graphic" src="imgs/gallery/credhub.jpg" alt="Credhub poster for conference and handouts" /></a>
+    <a class="gallery-iframe" data-fancybox-type="iframe" href="gallery/wftv.html"><img class="gallery-thumbnail all other" src="imgs/gallery/wftv.jpg" alt="WFTV videography work" /></a>
+    <a class="gallery-iframe" data-fancybox-type="iframe" href="gallery/llsgala.html"><img class="gallery-thumbnail all other" src="imgs/gallery/llsgala.jpg" alt="WFTV videography work" /></a>
   </div>
 </div>
 
