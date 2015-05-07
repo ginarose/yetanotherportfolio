@@ -1,0 +1,10 @@
+h1{
+	  font-size: 3.5em;
+  letter-spacing: -.05em;
+  font-family: 'Open Sans';
+  color: #D3643B;
+  text-align: center;
+  background-color: rgba(255,255,255,.6);
+  padding: 25px;
+  font-weight: 800;
+}

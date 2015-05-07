@@ -16,13 +16,8 @@
       <a class="block-link" id="all" href="#"><i class="fa interest-icon fa-arrows-h"></i><br>All</a></div>
 
   <div class="interest-display pure-u-1" id="gallery">
-    <a class="fancybox" data-caption="This is the caption" title="Captionnn" rel="lightbox" href="imgs/gallery/fullsize1.jpg"><img class="gallery-thumbnail all web" src="imgs/gallery/thumb1.jpg" alt="Kittens are cute" /></a>
-    <a class="fancybox" data-caption="This is the caption" title="Captionnn" rel="lightbox" href="imgs/gallery/fullsize1.jpg"><img class="gallery-thumbnail all videography" src="imgs/gallery/thumb1.jpg" alt="Kittens are cute" /></a>
-    <a class="fancybox" data-caption="This is the caption" title="Captionnn" rel="lightbox" href="imgs/gallery/fullsize1.jpg"><img class="gallery-thumbnail all web" src="imgs/gallery/thumb1.jpg" alt="Kittens are cute" /></a>
-    <a class="fancybox" data-caption="This is the caption" title="Captionnn" rel="lightbox" href="imgs/gallery/fullsize1.jpg"><img class="gallery-thumbnail all videography" src="imgs/gallery/thumb1.jpg" alt="Kittens are cute" /></a>
-    <a class="fancybox" data-caption="This is the caption" title="Captionnn" rel="lightbox" href="imgs/gallery/fullsize1.jpg"><img class="gallery-thumbnail all graphic" src="imgs/gallery/thumb1.jpg" alt="Kittens are cute" /></a>
-    <a class="fancybox" data-caption="This is the caption" title="Captionnn" rel="lightbox" href="imgs/gallery/fullsize1.jpg"><img class="gallery-thumbnail all other" src="imgs/gallery/thumb1.jpg" alt="Kittens are cute" /></a>
-    <a class="fancybox" data-caption="This is the caption" title="Captionnn" rel="lightbox" href="imgs/gallery/fullsize1.jpg"><img class="gallery-thumbnail all graphic" src="imgs/gallery/thumb1.jpg" alt="Kittens are cute" /></a>
+    <a class="gallery-iframe" data-fancybox-type="iframe" href="gallery/unblock.html"><img class="gallery-thumbnail all web" src="imgs/gallery/unblock.jpg" alt="Unblock - a inspiration tool for artists" /></a>
+    <a class="gallery-iframe" data-fancybox-type="iframe" href="gallery/resolution.html"><img class="gallery-thumbnail all web" src="imgs/gallery/resolution.jpg" alt="Resolution - a movie picker web app" /></a>
   </div>
 </div>
 
