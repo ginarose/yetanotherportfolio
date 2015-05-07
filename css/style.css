@@ -56,6 +56,9 @@ body{
 	font-weight: 600;
 }
 
+ul{
+  margin-left: 20px;
+}
 
 /*nav*/
 .pure-menu-horizontal{
