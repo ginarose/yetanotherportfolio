@@ -25,6 +25,8 @@ img{
 	margin: 0 auto;
 	display: block;
 	max-width: 600px;
+	max-height: 500px;
+	border: 3px #fff solid;
 }
 
 .fa{

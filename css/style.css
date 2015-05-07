@@ -152,7 +152,9 @@ ul{
 
 .gallery-thumbnail{
   max-height: 200px;
-  padding: 10px
+  height: 200px;
+  margin: 10px;
+  border: 5px #fff solid;
 }
 
 

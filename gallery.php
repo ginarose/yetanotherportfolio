@@ -23,6 +23,7 @@
     <a class="gallery-iframe" data-fancybox-type="iframe" href="gallery/llsgala.html"><img class="gallery-thumbnail all videography" src="imgs/gallery/llsgala.jpg" alt="WFTV videography work" /></a>
     <a class="gallery-iframe" data-fancybox-type="iframe" href="gallery/nurtureyournature.html"><img class="gallery-thumbnail all graphic" src="imgs/gallery/nurtureyournature.jpg" alt="Nuture your nature mixed media" /></a>
     <a class="gallery-iframe" data-fancybox-type="iframe" href="gallery/piday.html"><img class="gallery-thumbnail all graphic" src="imgs/gallery/piday.jpg" alt="Pi day handlettered poster" /></a>
+    <a class="gallery-iframe" data-fancybox-type="iframe" href="gallery/virtualroadtrip.html"><img class="gallery-thumbnail all graphic" src="imgs/gallery/virtualroadtrip.jpg" alt="Virtual roadtrip - an interactive way of viewing images from around the world" /></a>
   </div>
 </div>
 
