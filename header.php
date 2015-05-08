@@ -22,8 +22,4 @@
 <!-- header -->
 <h1>Gina Rose Piscitelli</h1>
 <!-- menu -->
-<div class="pure-menu pure-menu-horizontal">
-    <a href="index.php" class="pure-menu-heading pure-menu-link">About</a>
-    <a href="gallery.php" class="pure-menu-heading pure-menu-link">Gallery</a>
-    <a href="resume.php" class="pure-menu-heading pure-menu-link">Resume</a>
-</div>
+
