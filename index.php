@@ -24,6 +24,8 @@
     <p>It's been a goal of mine to <b>travel</b> as much as possible, and I make it a priority to do so. My next destination? <b>Italy</b>.</p>
 </div>
  <div class="pure-u-sm-1 pure-u-md-1-2" class="info-box">
+    <h3>Favorite Programs</h3>
+    <p><img src="imgs/programs.svg" alt="Favorite programs include SublimeText, Photoshop, Illustrator, Premiere, and After Effects"></p>
     <h3>Quick Stats</h3>
     <ul>
       <li><h4>Age:</h4><p>22</p></li>
@@ -32,7 +34,7 @@
       <li><h4>Favorite animal:</h4><p>Snakes, kittens, anything but fish</p></li>
       <li><h4>Words of wisdom:</h4><p>"Anything can happen, child. Anything can be." -Shel Silverstein</p></li>
     </ul>
-    <h3>Favorite Programs</h3>
+    
 </div>
   
  </div>
