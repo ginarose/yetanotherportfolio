@@ -60,6 +60,9 @@ body{
 	font-weight: 600;
 }
 
+.center{
+  text-align: center;
+}
 /*nav*/
 .pure-menu-horizontal{
   text-align: center;
@@ -79,7 +82,7 @@ body{
 
 .current-page{
   background-color: #D6E1C7;
-  color: #94C7B6;
+  color: #fff;
 }
 
 /*about*/
@@ -100,6 +103,14 @@ body{
 
 .info-box{
   background-color: rgba(255,255,255,.4);
+}
+
+.more-info-button{
+  background-color: #94C7B6;
+  font-family: 'Open Sans';
+  color: #fff;
+  padding: 20px 50px;
+  margin: 10px auto;
 }
 
 /*gallery*/
@@ -182,17 +193,13 @@ body{
   font-size: inherit;
 }
 
-.resume-link a{
-  color: #D3643B;
+.resume-link {
   font-weight: 800;
-}
-
-.resume-link a:hover{
-  color: #5c7d72;
-}
-
-.info-box-centered{
-  text-align: center;
+  font-size: 1.3em;
+  background-color:#D3643B;
+  color: #fff; 
+  padding: 20px 70px;
+  margin: 10px auto;
 }
 
 /*random fix because it breaks at small res?*/
