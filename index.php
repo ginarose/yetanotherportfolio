@@ -16,9 +16,9 @@
  <div class="pure-u-sm-1 pure-u-md-1-2" class="info-box">
     <h3>Hobbies</h3>
     <h4><i class="fa info-icon fa-2x fa-lightbulb-o"></i> Learning new things</h4>
-    <p>I enjoy exploring new technology, especially if it's something in the creative field. I enjoy picking up new programs and learning as much as I can about them on my own.</p>
+    <p>I enjoy exploring new technology, especially if it's something in the creative field. On most weekends, you'll find me picking up new programs and learning as much as I can about them on my own.</p>
     <h4><i class="fa info-icon fa-2x fa-eye"></i> Beauty blogging and nail art</h4>
-    <p>Over the past few years, I have taken my love for pretty things to a whole new level: to my nailbeds. Not your typical kind of "artwork," I find <b>nail art</b> to be relaxing and allows me to be creative without having to go full-scale like painting on an 11"x14" canvas. </p>
+    <p>Over the past few years, I have taken my love for pretty things to a whole new place: to my nailbeds. While not your typical kind of "artwork," I find <b>nail art</b> to be relaxing and allows me to be creative without having to go full-scale like painting on an 11"x14" canvas. </p>
     <p>Along with this, I also <a href="http://www.twinklefarts.me/" target="_new"><b>run a blog</b><i class="fa fa-external-link fa-small"></i></a> that has gotten me a few really interesting complimentary things. Food, nail stamping plates, and beauty products are among the things that I've reviewed at twinklefarts.com</p>
     <h4><i class="fa info-icon fa-2x fa-globe"></i> Seeing the world</h4>
     <p>It's been a goal of mine to <b>travel</b> as much as possible, and I make it a priority to do so. My next destination? <b>Italy</b>.</p>

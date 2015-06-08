@@ -63,6 +63,17 @@ body{
 .center{
   text-align: center;
 }
+
+/*header link*/
+.header-link{
+  letter-spacing: -.05em;
+  font-family: 'Open Sans';
+  color: #D3643B;
+  text-align: center;
+  padding: 25px;
+  font-weight: 800;
+  text-decoration: none;
+}
 /*nav*/
 .pure-menu-horizontal{
   text-align: center;
@@ -213,9 +224,23 @@ body{
 
 .footer
 {
-  text-align: center;
   background-color: #94C7B6;
-  padding: 50px 0px;
+  padding: 20px 0px;
+  margin: 20px 0px;
+}
+
+.footer-title{
+  font-family: 'Open sans';
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center;
+  padding: 15px 0px;
+}
+
+.social-icon{
+  margin: 0px;
+  text-align: center;
 }
 
 .fa-3x{

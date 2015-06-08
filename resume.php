@@ -55,7 +55,7 @@
 </div>
 <div class="pure-u-1" class="info-box info-box-centered">
   <h2>Full Resume</h2>
-<p class="center"><a class="pure-button button-xlarge resume-link" href="resume.pdf">Download <i class="fa fa-download"></i></a></p>
+<p class="center"><a class="pure-button button-xlarge resume-link" href="resume.pdf">Download PDF version <i class="fa fa-file-pdf-o"></i></a></p>
 </div>
 </div>
 <?php include 'footer.php';?>

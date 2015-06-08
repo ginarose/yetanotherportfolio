@@ -20,6 +20,6 @@
 
 
 <!-- header -->
-<h1>Gina Rose Piscitelli</h1>
+<h1><a href="/index.php" class="header-link">Gina Rose Piscitelli</a></h1>
 <!-- menu -->
 
