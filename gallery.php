@@ -7,7 +7,7 @@
 </div>
 
 <!-- gallery -->
-<div class="pure-g">  
+<div class="pure-g center">  
     <div id="videography" class="interest-selection pure-u-sm-1 pure-u-md-1-2 pure-u-lg-1-5">
       <a class="block-link" id="videography" href="#"><i class="fa fa-gallery interest-icon fa-video-camera"></i><br>Videography</a></div>
     <div id="web" class="interest-selection pure-u-sm-1 pure-u-md-1-2 pure-u-lg-1-5">
