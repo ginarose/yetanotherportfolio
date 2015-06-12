@@ -20,8 +20,9 @@
       <a class="block-link" id="all" href="#"><i class="fa fa-gallery interest-icon fa-arrows-h"></i><br>All</a></div>
 
   <div class="interest-display pure-u-1" id="gallery">
-    <a class="gallery-iframe" data-fancybox-type="iframe" href="gallery/dredbeard.html"><img class="gallery-thumbnail all graphic web" src="imgs/gallery/dredbeard.jpg" alt="Dredbeard landing page mockups" /></a>
+    <a class="gallery-iframe" data-fancybox-type="iframe" href="gallery/knighthacks.html"><img class="gallery-thumbnail all graphic other" src="imgs/gallery/knighthacks.jpg" alt="Logo concepts for Knight Hacks" /></a>
     <a class="gallery-iframe" data-fancybox-type="iframe" href="gallery/materia_cards.html"><img class="gallery-thumbnail all graphic other" src="imgs/gallery/materia_cards.jpg" alt="Materia playing cards" /></a>
+    <a class="gallery-iframe" data-fancybox-type="iframe" href="gallery/dredbeard.html"><img class="gallery-thumbnail all graphic web" src="imgs/gallery/dredbeard.jpg" alt="Dredbeard landing page mockups" /></a>
     <a class="gallery-iframe" data-fancybox-type="iframe" href="gallery/unblock.html"><img class="gallery-thumbnail all web" src="imgs/gallery/unblock.jpg" alt="Unblock - a inspiration tool for artists" /></a>
     <a class="gallery-iframe" data-fancybox-type="iframe" href="gallery/resolution.html"><img class="gallery-thumbnail all web" src="imgs/gallery/resolution.jpg" alt="Resolution - a movie picker web app" /></a>
     <a class="gallery-iframe" data-fancybox-type="iframe" href="gallery/credhub.html"><img class="gallery-thumbnail all graphic" src="imgs/gallery/credhub.jpg" alt="Credhub poster for conference and handouts" /></a>
